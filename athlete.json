@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "乔丹",
+    "position": "得分后卫"
+  },
+  {
+    "id": 2,
+    "name": "科比",
+    "position": "得分后卫"
+  },
+  {
+    "id": 3,
+    "name": "麦迪",
+    "position": "得分后卫"
+  },
+  {
+    "id": 4,
+    "name": "詹姆斯",
+    "position": "得分后卫"
+  },
+  {
+    "id": 5,
+    "name": "库里",
+    "position": "得分后卫"
+  },
+  {
+    "id": 6,
+    "name": "姚明",
+    "position": "中锋"
+  },
+  {
+    "id": 7,
+    "name": "奥尼奥",
+    "position": "中锋"
+  }
+]
